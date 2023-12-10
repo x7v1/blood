@@ -1,6 +1,7 @@
 # BLOOD NUKER
 
 How to run:
+
 1 - copy or download the main file
 
 2 - paste or put it in somewhere like replit where you can run your python for free with a console.
